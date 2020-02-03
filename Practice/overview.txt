@@ -1,0 +1,2 @@
+This section is just for pactice. I am going to store here the solutions and certain modifications of the Problem Questions given
+in the notes for the course. You night be able to reuse some parts in your final coursework.
